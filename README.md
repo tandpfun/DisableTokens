@@ -2,4 +2,4 @@
 
 Tokens here have been found by me using scripts, or just when I randomly come across some. I never have the intention to abuse the tokens I find and will always reset them using this repo. I will not share how I find these tokens to prevent my methods being used for malicious purposes.
 
-To contact me, you can open an issue, DM me on twitter (@cdngdev) or friend me on Discord (Coding#0001).
+To contact me, please join this discord server (https://discord.gg/Jsbbc8yYzu) or you can open an issue.
